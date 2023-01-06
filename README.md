@@ -1,4 +1,1 @@
-
-
-Для запуска сервера:
-npx serve
+repo for web project build tools
